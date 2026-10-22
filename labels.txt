@@ -1,0 +1,2 @@
+0 Abre cerradura
+1 No abre cerradura
